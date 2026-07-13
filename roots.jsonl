@@ -6,3 +6,4 @@
 {"committed_at":"2026-07-06T14:51:43.478345655Z","computed_at":"2026-07-06T14:51:43.475241Z","log_size":13,"merkle_root":"2d9c429fabee26b67adc903b9d1da997b5f0426b6f754e170873c969fdaeeaf6"}
 {"committed_at":"2026-07-06T15:11:29.2275253Z","computed_at":"2026-07-06T15:11:29.223447Z","log_size":3,"merkle_root":"52df7f4c4dae0b2f6dcf7cb180b8e429ac55fe66dd4a0c19afa5f3c8b9a106f0"}
 {"committed_at":"2026-07-07T15:11:31.045573831Z","computed_at":"2026-07-07T15:11:31.040541Z","log_size":13,"merkle_root":"573bb10e3c3ed417f4b0b2fd95ab0163b30d1399f208e482b7ce7b77438673f4"}
+{"committed_at":"2026-07-13T11:35:44.913823005Z","computed_at":"2026-07-13T11:35:44.90052Z","log_size":17,"merkle_root":"a044423139b2430173bcaab4dc622f0a38d611ac0a2e56a6193109d7494d3c0e"}
