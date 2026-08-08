@@ -21,3 +21,4 @@
 {"committed_at":"2026-08-03T14:41:55.425713077Z","computed_at":"2026-08-03T14:41:55.42178Z","log_size":61,"merkle_root":"a78488058343016e5a0e75a534e004eebe778efbccb76353079e4e8a1a695c21"}
 {"committed_at":"2026-08-04T21:43:50.418148206Z","computed_at":"2026-08-04T21:43:50.413028Z","log_size":65,"merkle_root":"ff90c2a42d9497401031194fd179ac3b5fc63e914f8d6d774cb1bf2ac1b01455"}
 {"committed_at":"2026-08-08T15:01:54.362013819Z","computed_at":"2026-08-08T15:01:54.356116Z","log_size":73,"merkle_root":"669c29792732155b4f955739e5aa11b6585ab9f43941dc5aceb0f38ccbf34461"}
+{"committed_at":"2026-08-08T20:29:57.373101183Z","computed_at":"2026-08-08T20:29:57.366433Z","log_size":77,"merkle_root":"04b23baeee0c6b9afe09810b1c73c37cd0bb1010adc865e8a1a34e0a65ea689d"}
