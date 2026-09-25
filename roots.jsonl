@@ -28,3 +28,4 @@
 {"committed_at":"2026-08-13T02:31:12.911043126Z","computed_at":"2026-08-13T02:31:12.898752Z","log_size":89,"merkle_root":"695f69fd94b6cbd93c0be060e37ce33ffbe2ba69effbc3d077374a12e2c215a9"}
 {"committed_at":"2026-08-29T23:29:28.972139551Z","computed_at":"2026-08-29T23:29:28.964705Z","log_size":3,"merkle_root":"58180f722a654cd0fc77a9422f77600e97c93cfc10380523390ba1be8495ac57"}
 {"committed_at":"2026-09-08T00:21:47.17704202Z","computed_at":"2026-09-08T00:21:47.157069Z","log_size":95,"merkle_root":"bdda68f071a7c00bbaa6a4b15a0cfbda2eb6b11f00a88c5bfc16bed1f2e8378c"}
+{"committed_at":"2026-09-25T16:56:27.160248922Z","computed_at":"2026-09-25T16:56:27.1547Z","log_size":97,"merkle_root":"49c711013d055b9bd68893c46449411c4a67714fb9510a1223325fbad625ee56"}
