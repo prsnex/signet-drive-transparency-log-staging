@@ -31,3 +31,4 @@
 {"committed_at":"2026-09-25T16:56:27.160248922Z","computed_at":"2026-09-25T16:56:27.1547Z","log_size":97,"merkle_root":"49c711013d055b9bd68893c46449411c4a67714fb9510a1223325fbad625ee56"}
 {"committed_at":"2026-10-27T22:43:14.316855661Z","computed_at":"2026-10-27T22:43:14.311815Z","log_size":99,"merkle_root":"c597fea124391de755b33d203b5db8516493a74365a8c938f696e0812939179d"}
 {"committed_at":"2026-10-29T23:31:50.855162551Z","computed_at":"2026-10-29T23:31:50.847162Z","log_size":101,"merkle_root":"cfe00dff8b2cafbd5bf5ba1a5d43cdbf37d2196710c5b063239796515b7afc8e"}
+{"committed_at":"2026-10-30T18:04:37.613822371Z","epoch":1,"epoch_end":true,"log_size":101,"merkle_root":"cfe00dff8b2cafbd5bf5ba1a5d43cdbf37d2196710c5b063239796515b7afc8e","reason":"test accounts; entries no longer served"}
