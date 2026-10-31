@@ -33,3 +33,4 @@
 {"committed_at":"2026-10-29T23:31:50.855162551Z","computed_at":"2026-10-29T23:31:50.847162Z","log_size":101,"merkle_root":"cfe00dff8b2cafbd5bf5ba1a5d43cdbf37d2196710c5b063239796515b7afc8e"}
 {"committed_at":"2026-10-30T18:04:37.613822371Z","epoch":1,"epoch_end":true,"log_size":101,"merkle_root":"cfe00dff8b2cafbd5bf5ba1a5d43cdbf37d2196710c5b063239796515b7afc8e","reason":"test accounts; entries no longer served"}
 {"committed_at":"2026-10-30T18:04:41.5736839Z","computed_at":"2026-10-30T18:04:41.56809Z","epoch":2,"log_size":37,"merkle_root":"e4d6d616ece9ed5e8605226163a64db8f0f1a59705c5518cad68759aace462ef"}
+{"committed_at":"2026-10-31T17:57:02.095331501Z","computed_at":"2026-10-31T17:57:02.084327Z","epoch":2,"log_size":39,"merkle_root":"39af0e94edb90f4ef49b4c0359a7bb30c23cb20e753e8d493846a53866a3cbe0"}
